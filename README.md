@@ -1,4 +1,4 @@
-﻿# Breast-Cancer-Prediction
+# Breast-Cancer-Prediction
 This code uses several modules from the scikit-learn library for building and evaluating classification models. Here is a brief description of each module used in the code:
 
 pandas: Used for data manipulation and analysis. 
